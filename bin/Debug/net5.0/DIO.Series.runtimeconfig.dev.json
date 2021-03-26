@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Logística GEAB RJ\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Logística GEAB RJ\\.nuget\\packages"
+    ]
+  }
+}
